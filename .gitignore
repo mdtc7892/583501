@@ -1,0 +1,11 @@
+# Raw / intermediate dataset files (large — see README for download link)
+dataset/*.csv
+!dataset/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
