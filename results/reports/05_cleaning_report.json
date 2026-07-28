@@ -1,0 +1,20 @@
+{
+  "duplicates_removed": 0,
+  "identifier_columns_dropped": [
+    "Source IP",
+    "Destination IP",
+    "Timestamp",
+    "Source Port"
+  ],
+  "rows_dropped_inf_or_missing": 0,
+  "zero_variance_columns_dropped": [
+    "Bwd PSH Flags",
+    "Fwd URG Flags",
+    "Bwd URG Flags",
+    "CWE Flag Count"
+  ],
+  "final_shape": [
+    6000,
+    24
+  ]
+}

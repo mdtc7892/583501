@@ -1,0 +1,5 @@
+model,variant,val_f1
+Random Forest,untuned (defaults),0.9990186457311089
+Random Forest,tuned (RandomizedSearchCV),0.9990186457311089
+SVM,untuned (defaults),0.9951219512195122
+SVM,tuned (RandomizedSearchCV),0.9980392156862745

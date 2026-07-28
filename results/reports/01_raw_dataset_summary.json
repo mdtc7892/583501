@@ -1,0 +1,12 @@
+{
+  "n_rows": 6000,
+  "n_columns": 32,
+  "memory_mb": 2.66,
+  "n_duplicates": 0,
+  "n_missing_values": 0,
+  "label_column": "Label",
+  "class_counts": {
+    "DDoS": 3403,
+    "BENIGN": 2597
+  }
+}

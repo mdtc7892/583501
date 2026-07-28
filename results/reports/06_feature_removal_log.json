@@ -1,0 +1,9 @@
+{
+  "variance_threshold_removed": [],
+  "correlation_removed": [
+    "Bwd Header Length",
+    "Fwd Packets/s",
+    "SYN Flag Count",
+    "ECE Flag Count"
+  ]
+}

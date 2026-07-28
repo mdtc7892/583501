@@ -1,0 +1,6 @@
+{
+  "class_weight_balanced": 0.9983184440968816,
+  "random_oversampling": 0.9983171149279284,
+  "smote": 0.998107252733009,
+  "random_undersampling": 0.9980735168668833
+}

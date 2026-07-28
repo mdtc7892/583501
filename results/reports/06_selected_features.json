@@ -1,0 +1,23 @@
+{
+  "selected_features": [
+    "ACK Flag Count",
+    "Bwd Packets/s",
+    "Destination Port",
+    "FIN Flag Count",
+    "Flow Bytes/s",
+    "Flow Duration",
+    "Flow Packets/s",
+    "Fwd Header Length",
+    "Fwd PSH Flags",
+    "Max Packet Length",
+    "Min Packet Length",
+    "PSH Flag Count",
+    "Protocol",
+    "RST Flag Count",
+    "Total Backward Packets",
+    "Total Fwd Packets",
+    "Total Length of Bwd Packets",
+    "Total Length of Fwd Packets",
+    "URG Flag Count"
+  ]
+}
