@@ -37,5 +37,3 @@ The full datasets may also be used after updating the two paths in the notebook 
 2. Install dependencies with `pip install -r requirements.txt`.
 3. Start Jupyter from the project root: `jupyter lab`.
 4. Open `code/01_AI_Intrusion_Detection_Framework.ipynb` and run the cells in order.
-
-Generated files are written automatically to `logs/`, `models/`, and the relevant `results/` subdirectories.
