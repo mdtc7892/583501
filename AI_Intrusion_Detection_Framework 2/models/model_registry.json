@@ -1,0 +1,22 @@
+{
+  "framework_version": "v3-6-model-multi-architecture",
+  "selected_internal_model": "Logistic Regression",
+  "lowest_false_positive_rate_model": "Logistic Regression",
+  "selected_external_generalisation_model": "Logistic Regression",
+  "ensemble_strategy": "soft_voting",
+  "ensemble_members": ["Random Forest", "SVM", "XGBoost", "Neural Network"],
+  "models_evaluated": [
+    "Logistic Regression",
+    "Decision Tree",
+    "Naive Bayes",
+    "Random Forest",
+    "SVM",
+    "XGBoost",
+    "Neural Network",
+    "Ensemble"
+  ],
+  "selected_feature_count": 22,
+  "random_seed": 42,
+  "binary_classes": ["BENIGN", "ATTACK"],
+  "note": "Serialized model binaries are generated when the notebook is rerun with the supplied datasets. This registry records the models and selections from the embedded completed run."
+}

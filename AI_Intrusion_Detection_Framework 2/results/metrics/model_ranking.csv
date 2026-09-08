@@ -1,0 +1,9 @@
+Unnamed: 0,accuracy,f1_score,false_positive_rate,roc_auc,rank_f1,rank_fpr,combined
+Logistic Regression,1.0,1.0,0.0,1.0,4.5,4.5,9.0
+Decision Tree,1.0,1.0,0.0,1.0,4.5,4.5,9.0
+Naive Bayes,1.0,1.0,0.0,1.0,4.5,4.5,9.0
+Random Forest,1.0,1.0,0.0,1.0,4.5,4.5,9.0
+SVM,1.0,1.0,0.0,1.0,4.5,4.5,9.0
+XGBoost,1.0,1.0,0.0,1.0,4.5,4.5,9.0
+Neural Network,1.0,1.0,0.0,1.0,4.5,4.5,9.0
+Ensemble,1.0,1.0,0.0,1.0,4.5,4.5,9.0
