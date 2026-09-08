@@ -1,9 +1,0 @@
-Unnamed: 0,accuracy,precision,recall,f1_score,specificity,sensitivity,false_positive_rate,false_negative_rate,balanced_accuracy,matthews_corrcoef,cohen_kappa,true_negative,false_positive,false_negative,true_positive,roc_auc,pr_auc
-Logistic Regression,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1283.0,0.0,0.0,500.0,1.0,1.0
-Decision Tree,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1283.0,0.0,0.0,500.0,1.0,1.0
-Naive Bayes,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1283.0,0.0,0.0,500.0,1.0,1.0
-Random Forest,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1283.0,0.0,0.0,500.0,1.0,1.0
-SVM,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1283.0,0.0,0.0,500.0,1.0,1.0
-XGBoost,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1283.0,0.0,0.0,500.0,1.0,1.0
-Neural Network,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1283.0,0.0,0.0,500.0,1.0,1.0
-Ensemble,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1283.0,0.0,0.0,500.0,1.0,1.0
