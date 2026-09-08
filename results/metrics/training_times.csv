@@ -1,0 +1,8 @@
+Unnamed: 0,Model,Seconds
+2,Naive Bayes,0.003198
+0,Logistic Regression,0.268935
+1,Decision Tree,0.587449
+4,SVM,1.350184
+5,XGBoost,3.434554
+6,Neural Network,17.692094
+3,Random Forest,23.728311

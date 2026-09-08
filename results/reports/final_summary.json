@@ -1,0 +1,11 @@
+{
+  "best_model_cicids2017": "Logistic Regression",
+  "lowest_fpr_model": "Logistic Regression",
+  "best_gen_model_cic2018": "Logistic Regression",
+  "ensemble_strategy": "soft_voting",
+  "imbalance_strategy": "class_weight_balanced",
+  "n_features_selected": 22,
+  "cicids2017_test_size": 1783,
+  "cic2018_test_size": 7924,
+  "interpretation": "Strong smoke-test fit but poor external generalisation; not production-ready."
+}

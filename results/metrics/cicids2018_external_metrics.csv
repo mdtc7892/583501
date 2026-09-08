@@ -1,0 +1,9 @@
+model,f1_score,false_positive_rate,roc_auc
+Logistic Regression,0.5189,1.0000,0.1050
+Decision Tree,0.4875,1.0000,0.4600
+Naive Bayes,0.5189,1.0000,0.5000
+Random Forest,0.5189,1.0000,0.4284
+SVM,0.5189,1.0000,0.4033
+XGBoost,0.4974,0.9998,0.4880
+Neural Network,0.5174,1.0000,0.0484
+Ensemble,0.5189,1.0000,0.4597
